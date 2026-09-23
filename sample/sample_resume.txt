@@ -1,0 +1,32 @@
+Aditi Sharma
+Bengaluru, Karnataka | aditi.sharma@example.com | +91-90000-00000
+
+SKILLS
+Python, Java, SQL, Git, Linux, Docker
+Familiar with REST API design and MySQL.
+
+PROJECTS
+Eye Tracking Assistant
+Built an eye tracking application using Python, OpenCV and MediaPipe to help
+users control a cursor with head movement. Deployed the demo on a Raspberry Pi.
+
+Campus Marketplace Web App
+Built a full-stack marketplace using React, Node.js and MongoDB, with a Flask
+microservice for image moderation. Used GitHub Actions for CI/CD and Docker
+for containerized deployment.
+
+EDUCATION
+B.Tech in Computer Science and Engineering, XYZ Institute of Technology, 2022-2026
+Relevant coursework: Data Structures, Operating Systems, Machine Learning
+
+EXPERIENCE
+Software Engineering Intern, Example Corp (May 2025 - Jul 2025)
+Worked on backend services using Django and PostgreSQL, wrote unit tests, and
+improved API response times by optimizing database queries.
+
+CERTIFICATIONS
+AWS Cloud Practitioner (2025)
+Coursera: Machine Learning Specialization (2024)
+
+HOBBIES
+Chess, competitive programming, hiking

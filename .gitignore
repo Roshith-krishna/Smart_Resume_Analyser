@@ -1,0 +1,34 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large dataset (user-provided) — keep only the synthetic sample
+data/raw/*
+!data/raw/sample_jobs.csv
+
+# Generated vectors/metadata — regenerate with scripts/vectorize_jobs.py
+data/processed/*
+data/vectors/*
+!data/processed/.gitkeep
+!data/vectors/.gitkeep
+
+# CLI result exports
+results.json
+*.result.json
+
+# Resume uploads / personal files
+sample/*.pdf
+sample/*.docx
+*.pdf
+*.docx
